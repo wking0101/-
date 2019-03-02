@@ -1,2 +1,5 @@
-# -
-一个用于学习的库
+＃
+it ismyfirstattemption
+iwanttodo
+goodstudent
+
