@@ -1,5 +1,2 @@
-＃
-it ismyfirstattemption
-iwanttodo
-goodstudent
+I want todo best
 
